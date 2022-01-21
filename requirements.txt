@@ -25,7 +25,7 @@ google-auth==1.6.3
 google-auth-oauthlib==0.4.0
 googleads==20.0.0
 idna==2.8
-ipython==7.6.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 isodate==0.6.0
 jedi==0.14.0
